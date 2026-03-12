@@ -98,7 +98,7 @@ Features:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timothy-korea&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimothyKorea&show_icons=true)
 
 ---
 
